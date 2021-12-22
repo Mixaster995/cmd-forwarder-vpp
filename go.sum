@@ -39,8 +39,8 @@ github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym
 github.com/DataDog/datadog-go v2.2.0+incompatible/go.mod h1:LButxg5PwREeZtORoXG3tL4fMGNddJ+vMq1mwgfaqoQ=
 github.com/HdrHistogram/hdrhistogram-go v1.0.1 h1:GX8GAYDuhlFQnI2fRDHQhTlkHMz8bEn0jTI6LJU0mpw=
 github.com/HdrHistogram/hdrhistogram-go v1.0.1/go.mod h1:BWJ+nMSHY3L41Zj7CA3uXnloDp7xxV0YvstAE7nKTaM=
-github.com/Mixaster995/sdk-vpp v0.0.0-20211222092550-5652f44492eb h1:l08p1+rCAFEwf4Cjc0ctFvGU4ZzJnHxfLk1u9bLDTIY=
-github.com/Mixaster995/sdk-vpp v0.0.0-20211222092550-5652f44492eb/go.mod h1:8HxRgBpkNeCwDIeSeFgQZsH6X4MnylK5qf+5HKn9Q/Q=
+github.com/Mixaster995/sdk-vpp v0.0.0-20211222094527-b61eefc07245 h1:dthqDR+1Elox+Hyu9Drybum7IKZ/YoBQuteUVpwwjJE=
+github.com/Mixaster995/sdk-vpp v0.0.0-20211222094527-b61eefc07245/go.mod h1:8HxRgBpkNeCwDIeSeFgQZsH6X4MnylK5qf+5HKn9Q/Q=
 github.com/NYTimes/gziphandler v0.0.0-20170623195520-56545f4a5d46/go.mod h1:3wb06e3pkSAbeQ52E9H9iFoQsEEwGN64994WTCIhntQ=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/OneOfOne/xxhash v1.2.3 h1:wS8NNaIgtzapuArKIAjsyXtEN/IUjQkbw90xszUdS40=
