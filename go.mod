@@ -22,7 +22,9 @@ require (
 	github.com/spiffe/go-spiffe/v2 v2.0.0-beta.2
 	github.com/stretchr/testify v1.7.0
 	github.com/thanhpk/randstr v1.0.4
-	github.com/vishvananda/netlink v1.1.0
-	github.com/vishvananda/netns v0.0.0-20200728191858-db3c7e526aae
+	github.com/vishvananda/netlink v1.1.1-0.20211129163951-9ada19101fc5
+	github.com/vishvananda/netns v0.0.0-20211101163701-50045581ed74
 	google.golang.org/grpc v1.38.0
 )
+
+replace github.com/networkservicemesh/sdk-vpp => github.com/Mixaster995/sdk-vpp v0.0.0-20211222072732-72ec04b96087
